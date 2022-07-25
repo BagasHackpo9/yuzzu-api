@@ -1,7 +1,7 @@
 {
-  "name": "api-yuzzu",
+  "name": "api-irwann",
   "version": "1.1.0",
-  "description": "My Rest Api Projectttttt",
+  "description": "My Rest Api Irwan",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuzzuKamiyaka/yuzzu-api.git"
+    "url": "git+https://github.com/BagasHackpo9?tab=repositories"
   },
   "keywords": [
     "simple",
@@ -17,10 +17,10 @@
     "rest",
     "api"
   ],
-  "author": "Yuzzu",
+  "author": "Irwan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuzzuKamiyaka/yuzzu-api/issues"
+    "url": "https://github.com/BagasHackpo9/R-Txzy-V2/blob/main/Big%20Thanks"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -49,5 +49,5 @@
     "ytpl": "^2.0.5"
   },
   
-  "homepage": "https://github.com/YuzzuKamiyaka/yuzzu-api#readme"
+  "homepage": "https://github.com/BagasHackpo9"
 }
